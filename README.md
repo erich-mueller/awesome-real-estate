@@ -519,6 +519,7 @@
 - [PermisAPI](https://permisapi.fr) - REST API for 311,000+ French building permits (Sitadel dataset, geocoded via BAN, webhooks, Python SDK).
 - [Zornade MCP](https://mcp.zornade.com) - Open-source MCP server for Italian cadastral parcel lookup, address geocoding, and administrative-area data through the Zornade API, with a free API key.
 - [Poland Property Transaction API](https://apify.com/kris_fili/poland-real-estate-transaction-prices) - Hosted API for Polish property transaction prices from the RCN register, with address-based lookup and public input/output documentation.
+- [CoworkingView](https://coworkingview.com/en/api) - Read-only REST API and MCP server for coworking spaces, private offices and operator-published flexible office prices across 70+ European and global cities.
 
 ### Insurance
 
